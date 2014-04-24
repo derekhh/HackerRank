@@ -81,5 +81,8 @@
     <ClCompile Include="two-arrays.cpp">
       <Filter>Source Files\Algorithms/Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="Randomness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
