@@ -1,3 +1,7 @@
+//PSequences.cpp
+//Daily Challenges - Week 1
+//Author: derekhh
+
 #include<iostream>
 #include<algorithm>
 #include<cstring>

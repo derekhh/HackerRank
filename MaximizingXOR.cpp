@@ -1,3 +1,7 @@
+//MaximizingXOR.cpp
+//Daily Challenges - Week 1
+//Author: derekhh
+
 #include<iostream>
 using namespace std;
 
