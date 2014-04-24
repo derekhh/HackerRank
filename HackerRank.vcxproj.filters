@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\AlgorithmsWarmup">
+      <UniqueIdentifier>{7e38959a-3804-422f-9e6f-ab93b6c210d5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MaximizingXOR.cpp">
@@ -25,28 +28,28 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="UtopianTree.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="ServiceLane.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="HalloweenParty.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="ChocolateFeast.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="FillingJars.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="SherlockandTheBeast.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="AngryChildren.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
     <ClCompile Include="IsFibo.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\AlgorithmsWarmup</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
