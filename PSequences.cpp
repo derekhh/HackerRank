@@ -1,4 +1,5 @@
 //PSequences.cpp
+//P-sequences
 //Daily Challenges - Week 1
 //Author: derekhh
 
@@ -8,7 +9,7 @@
 using namespace std;
 
 const int MOD = 1000000007;
-long long f[1000][31623], g[1000][31623], fSum[31623], fSumPrev[31623], gSum[31623], gSumPrev[31623];
+long long f[2][31623], g[2][31623], fSum[31623], fSumPrev[31623], gSum[31623], gSumPrev[31623];
 
 int main()
 {
@@ -26,6 +27,7 @@ int main()
 	for (int i = sqrtVal - 1; i >= 1; i--)
 		gSum[i] = (gSum[i + 1] + g[1][i]) % MOD;
 
+	int now = 1;
 	for (int i = 2; i <= n; i++)
 	{
 		memcpy(fSumPrev, fSum, sizeof(fSum));
@@ -33,20 +35,22 @@ int main()
 		memcpy(gSumPrev, gSum, sizeof(gSum));
 		for (int j = 1; j <= sqrtVal; j++)
 		{
-			f[i][j] = (fSumPrev[sqrtVal] + gSumPrev[j]) % MOD;
-			g[i][j] = (fSumPrev[j] * (p / j - max(p / (j + 1), sqrtVal))) % MOD;
-			fSum[j] = (fSum[j - 1] + f[i][j]) % MOD;
+			f[1 - now][j] = (fSumPrev[sqrtVal] + gSumPrev[j]) % MOD;
+			g[1 - now][j] = (fSumPrev[j] * (p / j - max(p / (j + 1), sqrtVal))) % MOD;
+			fSum[j] = (fSum[j - 1] + f[1 - now][j]) % MOD;
 		}
 		
 		memset(gSum, 0, sizeof(gSum));
-		gSum[sqrtVal] = g[i][sqrtVal];
+		gSum[sqrtVal] = g[1 - now][sqrtVal];
 		for (int j = sqrtVal - 1; j >= 1; j--)
-			gSum[j] = (gSum[j + 1] + g[i][j]) % MOD;
+			gSum[j] = (gSum[j + 1] + g[1 - now][j]) % MOD;
+
+		now = 1 - now;
 	}
 	
 	long long ans = fSum[sqrtVal];
 	for (int i = 1; i <= sqrtVal; i++)
-		ans = (ans + g[n][i]) % MOD;
+		ans = (ans + g[now][i]) % MOD;
 	cout << ans << endl;
 	return 0;
 }
