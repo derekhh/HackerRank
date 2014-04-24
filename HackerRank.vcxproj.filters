@@ -13,8 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\AlgorithmsWarmup">
+    <Filter Include="Source Files\Algorithms/Warmup">
       <UniqueIdentifier>{7e38959a-3804-422f-9e6f-ab93b6c210d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Algorithms/Sorting">
+      <UniqueIdentifier>{d8381e91-7ab5-478b-bf82-3320ed160829}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -28,28 +31,55 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="UtopianTree.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="ServiceLane.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="HalloweenParty.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="ChocolateFeast.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="FillingJars.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="SherlockandTheBeast.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="AngryChildren.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
     <ClCompile Include="IsFibo.cpp">
-      <Filter>Source Files\AlgorithmsWarmup</Filter>
+      <Filter>Source Files\Algorithms/Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="IntrotoTutorialChallenges.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSortPart1.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSortPart2.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="correctness-invariant.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="runningtime.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort1.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort2.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort3.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="two-arrays.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
