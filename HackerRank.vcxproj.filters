@@ -84,11 +84,11 @@
     <ClCompile Include="two-arrays.cpp">
       <Filter>Source Files\Algorithms/Sorting</Filter>
     </ClCompile>
-    <ClCompile Include="Randomness.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Pairs.cpp">
       <Filter>Source Files\Algorithms/Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Randomness_SuffixArray.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
