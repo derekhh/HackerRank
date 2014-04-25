@@ -84,7 +84,7 @@ int main()
 	scanf("%d%d", &n, &q);
 	getchar();
 	scanf("%s", s);
-	long long tot = (n + 1) * n / 2;
+	long long tot = (n + 1) * (long long)n / 2;
 	while (q--)
 	{
 		int p;
@@ -94,7 +94,7 @@ int main()
 		s[p - 1] = ch;
 		SuffixSort();
 		GetHeight();
-		int sum = 0;
+		long long sum = 0;
 		for (int i = 0; i < n; i++)
 			sum += height[i];
 		cout << tot - sum << endl;
