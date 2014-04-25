@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Algorithms/Sorting">
       <UniqueIdentifier>{d8381e91-7ab5-478b-bf82-3320ed160829}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Algorithms/Search">
+      <UniqueIdentifier>{266eb936-fb2f-4d3d-b4c0-2395cd35aaee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MaximizingXOR.cpp">
@@ -83,6 +86,9 @@
     </ClCompile>
     <ClCompile Include="Randomness.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pairs.cpp">
+      <Filter>Source Files\Algorithms/Search</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
