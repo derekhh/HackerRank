@@ -1,4 +1,4 @@
-//InsertionSortPart2.cpp
+//insertionsort2.cpp
 //Algorithms - Sorting
 //Author: derekhh
 

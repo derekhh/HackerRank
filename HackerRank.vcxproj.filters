@@ -33,33 +33,6 @@
     <ClCompile Include="PSequences.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IntrotoTutorialChallenges.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="InsertionSortPart1.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="InsertionSortPart2.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="correctness-invariant.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="runningtime.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="countingsort1.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="countingsort2.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="countingsort3.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="two-arrays.cpp">
-      <Filter>Source Files\Algorithms/Sorting</Filter>
-    </ClCompile>
     <ClCompile Include="Pairs.cpp">
       <Filter>Source Files\Algorithms/Search</Filter>
     </ClCompile>
@@ -89,6 +62,48 @@
     </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Warmup\UtopianTree.cpp">
       <Filter>Source Files\Algorithms/Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\correctness-invariant.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort1.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort2.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort3.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\insertionsort2.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\runningtime.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\tutorial-intro.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\two-arrays.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\quicksort1.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\quicksort2.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\mark-and-toys.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\quicksort4.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\insertionsort1.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort4.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
