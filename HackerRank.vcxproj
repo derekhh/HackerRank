@@ -90,7 +90,9 @@
     <ClCompile Include="Challenges\Algorithms\Sorting\countingsort3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort4.cpp" />
+    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Sorting\insertionsort2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -139,6 +141,7 @@
     <ClCompile Include="Challenges\Algorithms\Warmup\UtopianTree.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="insertion-sort.cpp" />
     <ClCompile Include="MaximizingXOR.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

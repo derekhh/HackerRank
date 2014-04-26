@@ -102,5 +102,8 @@
     <ClCompile Include="Challenges\Algorithms\Sorting\countingsort4.cpp">
       <Filter>Source Files\Algorithms/Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="insertion-sort.cpp">
+      <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
