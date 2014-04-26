@@ -39,9 +39,6 @@
     <ClCompile Include="Randomness_SuffixArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Randomness.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Warmup\AngryChildren.cpp">
       <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
