@@ -126,6 +126,27 @@
     <ClCompile Include="Challenges\Algorithms\Search\pairs.cpp">
       <Filter>Source Files\Challenges\Algorithms\Search</Filter>
     </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\flowers.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\lonely-integer.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\closest-numbers.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\encryption.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\find-median.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\missing-numbers.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\coin-on-the-table.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">
