@@ -24,15 +24,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MaximizingXOR.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="VolleyballMatch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PSequences.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Pairs.cpp">
       <Filter>Source Files\Algorithms/Search</Filter>
     </ClCompile>
@@ -104,6 +95,18 @@
     </ClCompile>
     <ClCompile Include="insertion-sort.cpp">
       <Filter>Source Files\Algorithms/Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="bst-maintenance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p-sequences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="volleyball-match.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="maximizing-xor.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
