@@ -1,7 +1,11 @@
-//Randomness.cpp
+//randomness_partial.cpp
 //Randomness
 //Daily Challenges - Week 1
 //Author: derekhh
+
+/*
+	Complexity: O(QN\logN), pass the first 8 test cases.
+*/
 
 #include<cstdio>
 #include<iostream>

@@ -27,9 +27,6 @@
     <ClCompile Include="Pairs.cpp">
       <Filter>Source Files\Algorithms/Search</Filter>
     </ClCompile>
-    <ClCompile Include="Randomness_SuffixArray.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Warmup\AngryChildren.cpp">
       <Filter>Source Files\Algorithms/Warmup</Filter>
     </ClCompile>
@@ -108,5 +105,16 @@
     <ClCompile Include="maximizing-xor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="randomness_partial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="randomness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
