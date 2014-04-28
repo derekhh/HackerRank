@@ -78,9 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bst-maintenance.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Search\pairs.cpp" />
     <ClCompile Include="Challenges\Algorithms\Sorting\correctness-invariant.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -96,6 +94,7 @@
     <ClCompile Include="Challenges\Algorithms\Sorting\countingsort4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Sorting\insertion-sort.cpp" />
     <ClCompile Include="Challenges\Algorithms\Sorting\insertionsort2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -144,27 +143,12 @@
     <ClCompile Include="Challenges\Algorithms\Warmup\UtopianTree.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="insertion-sort.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="maximizing-xor.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="Pairs.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="p-sequences.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="randomness.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="randomness_partial.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="volleyball-match.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="Contests\Daily Challenges\Week 1\bst-maintenance.cpp" />
+    <ClCompile Include="Contests\Daily Challenges\Week 1\maximizing-xor.cpp" />
+    <ClCompile Include="Contests\Daily Challenges\Week 1\p-sequences.cpp" />
+    <ClCompile Include="Contests\Daily Challenges\Week 1\randomness.cpp" />
+    <ClCompile Include="Contests\Daily Challenges\Week 1\randomness_partial.cpp" />
+    <ClCompile Include="Contests\Daily Challenges\Week 1\volleyball-match.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
