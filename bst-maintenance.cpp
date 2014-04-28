@@ -3,6 +3,7 @@
 //Daily Challenges - Week 1
 //Author: derekhh
 
+#include<cstdio>
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -139,13 +140,13 @@ bool IsSpecial(int a[], int n)
 int main()
 {
 	int n;
-	cin >> n;
+	scanf("%d", &n);
 	for (int i = 0; i < n; i++)
-		cin >> a[i];
+		scanf("%d", &a[i]);
 	if (IsSpecial(a, n))
 	{
 		for (int i = 0; i < n; i++)
-			cout << (long long)i * (i + 1) * (i + 2) / 6 << endl;
+			printf("%lld\n", (long long)i * (i + 1) * (i + 2) / 6);
 	}
 	else
 	{
@@ -153,7 +154,7 @@ int main()
 		for (int i = 0; i < n; i++)
 		{
 			Insert(a[i]);
-			cout << sumdist << endl;
+			printf("%lld\n", sumdist);
 		}
 	}
 	return 0;
