@@ -152,5 +152,8 @@
     <None Include="README.md">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="Challenges\Algorithms\Search\pairs.md">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </None>
   </ItemGroup>
 </Project>
