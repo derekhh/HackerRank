@@ -31,11 +31,14 @@
     <Filter Include="Source Files\Challenges\Algorithms\Warmup">
       <UniqueIdentifier>{fda6cb80-ef7a-40a9-9718-976e0fbfafbc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Contests\Daily Challenges">
+    <Filter Include="Source Files\Contests\Weekly Challenges">
       <UniqueIdentifier>{3b44583e-a8e8-48de-97e3-dc4391a4f64e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Contests\Daily Challenges\Week 1">
+    <Filter Include="Source Files\Contests\Weekly Challenges\Week 1">
       <UniqueIdentifier>{24c65ae8-2a7d-4900-a7c2-9c12e6827c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Contests\Weekly Challenges\Week 2">
+      <UniqueIdentifier>{aa07b970-f5cb-421b-bb08-001f49e1129e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -105,24 +108,6 @@
     <ClCompile Include="Challenges\Algorithms\Sorting\two-arrays.cpp">
       <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
     </ClCompile>
-    <ClCompile Include="Contests\Daily Challenges\Week 1\bst-maintenance.cpp">
-      <Filter>Source Files\Contests\Daily Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Daily Challenges\Week 1\maximizing-xor.cpp">
-      <Filter>Source Files\Contests\Daily Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Daily Challenges\Week 1\p-sequences.cpp">
-      <Filter>Source Files\Contests\Daily Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Daily Challenges\Week 1\randomness.cpp">
-      <Filter>Source Files\Contests\Daily Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Daily Challenges\Week 1\randomness_partial.cpp">
-      <Filter>Source Files\Contests\Daily Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Daily Challenges\Week 1\volleyball-match.cpp">
-      <Filter>Source Files\Contests\Daily Challenges\Week 1</Filter>
-    </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Search\pairs.cpp">
       <Filter>Source Files\Challenges\Algorithms\Search</Filter>
     </ClCompile>
@@ -147,12 +132,39 @@
     <ClCompile Include="Challenges\Algorithms\Search\coin-on-the-table.cpp">
       <Filter>Source Files\Challenges\Algorithms\Search</Filter>
     </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 1\bst-maintenance.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 1\maximizing-xor.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 1\p-sequences.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 1\randomness.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 1\randomness_partial.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 1\volleyball-match.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 2\cut-the-tree.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 2\manasa-and-stones.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">
       <Filter>Source Files</Filter>
     </None>
     <None Include="Challenges\Algorithms\Search\pairs.md">
+      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    </None>
+    <None Include="Challenges\Algorithms\Search\flowers.md">
       <Filter>Source Files\Challenges\Algorithms\Search</Filter>
     </None>
   </ItemGroup>
