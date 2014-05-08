@@ -25,9 +25,6 @@
     <Filter Include="Source Files\Challenges\Algorithms\Search">
       <UniqueIdentifier>{d025887b-2f68-4479-b29d-c4f13ca0e1bd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Challenges\Algorithms\Sorting">
-      <UniqueIdentifier>{0135db00-517b-451a-ad87-68e467048455}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Challenges\Algorithms\Warmup">
       <UniqueIdentifier>{fda6cb80-ef7a-40a9-9718-976e0fbfafbc}</UniqueIdentifier>
     </Filter>
@@ -39,6 +36,9 @@
     </Filter>
     <Filter Include="Source Files\Contests\Weekly Challenges\Week 2">
       <UniqueIdentifier>{aa07b970-f5cb-421b-bb08-001f49e1129e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Challenges\Algorithms\Arrays and Sorting">
+      <UniqueIdentifier>{0135db00-517b-451a-ad87-68e467048455}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -62,51 +62,6 @@
     </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Warmup\UtopianTree.cpp">
       <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\correctness-invariant.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort3.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\countingsort4.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\insertion-sort.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\insertionsort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\insertionsort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\mark-and-toys.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\quicksort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\quicksort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\quicksort4.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\runningtime.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\tutorial-intro.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Sorting\two-arrays.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Sorting</Filter>
     </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Search\pairs.cpp">
       <Filter>Source Files\Challenges\Algorithms\Search</Filter>
@@ -155,6 +110,60 @@
     </ClCompile>
     <ClCompile Include="Contests\Weekly Challenges\Week 2\manasa-and-stones.cpp">
       <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 2\huarongdao.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\correctness-invariant.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort1.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort2.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort3.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort4.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\insertion-sort.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\insertionsort1.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\insertionsort2.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\mark-and-toys.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\quicksort1.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\quicksort2.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\quicksort4.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\runningtime.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\tutorial-intro.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\two-arrays.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Warmup\gem-stones.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\game-of-rotation.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
