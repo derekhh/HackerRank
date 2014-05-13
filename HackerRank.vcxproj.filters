@@ -40,6 +40,9 @@
     <Filter Include="Source Files\Challenges\Algorithms\Arrays and Sorting">
       <UniqueIdentifier>{0135db00-517b-451a-ad87-68e467048455}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Challenges\Algorithms\Discrete Mathematics">
+      <UniqueIdentifier>{4c94646e-063d-4113-b604-770338d72cd4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Challenges\Algorithms\Warmup\AngryChildren.cpp">
@@ -114,62 +117,83 @@
     <ClCompile Include="Contests\Weekly Challenges\Week 2\huarongdao.cpp">
       <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
     </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\correctness-invariant.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort3.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\countingsort4.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\insertion-sort.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\insertionsort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\insertionsort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\mark-and-toys.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\quicksort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\quicksort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\quicksort4.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\runningtime.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\tutorial-intro.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\two-arrays.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
     <ClCompile Include="Challenges\Algorithms\Warmup\gem-stones.cpp">
       <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Arrays and Sorting\game-of-rotation.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
     </ClCompile>
     <ClCompile Include="travel-around-the-world.cpp">
       <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
     </ClCompile>
     <ClCompile Include="road-network.cpp">
       <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\minimum-draws.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\handshake.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\building-a-list.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\connecting-towns.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\k-candy-store.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\diwali-lights.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\ncr-table.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\correctness-invariant.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort1.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort2.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort3.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort4.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\game-of-rotation.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\insertion-sort.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\insertionsort1.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\insertionsort2.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\mark-and-toys.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\quicksort1.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\quicksort2.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\quicksort4.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\runningtime.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\tutorial-intro.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\two-arrays.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -182,5 +206,10 @@
     <None Include="Challenges\Algorithms\Search\flowers.md">
       <Filter>Source Files\Challenges\Algorithms\Search</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Challenges\Algorithms\discrete-maths\prng-sequence-guessing.java">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </Text>
   </ItemGroup>
 </Project>
