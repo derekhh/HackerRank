@@ -120,12 +120,6 @@
     <ClCompile Include="Challenges\Algorithms\Warmup\gem-stones.cpp">
       <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
     </ClCompile>
-    <ClCompile Include="travel-around-the-world.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
-    <ClCompile Include="road-network.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
     <ClCompile Include="Challenges\Algorithms\discrete-maths\minimum-draws.cpp">
       <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
     </ClCompile>
@@ -194,6 +188,21 @@
     </ClCompile>
     <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\two-arrays.cpp">
       <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\keyword-transposition-cipher.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\coinage.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenges\Algorithms\discrete-maths\basic-cryptanalysis.cpp">
+      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 2\road-network.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 2\travel-around-the-world.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
