@@ -43,6 +43,9 @@
     <Filter Include="Source Files\Challenges\Algorithms\Discrete Mathematics">
       <UniqueIdentifier>{4c94646e-063d-4113-b604-770338d72cd4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Contests\Weekly Challenges\Week 3">
+      <UniqueIdentifier>{5a438974-dc14-4b07-9895-2d4ed4970794}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Challenges\Algorithms\Warmup\AngryChildren.cpp">
@@ -203,6 +206,21 @@
     </ClCompile>
     <ClCompile Include="Contests\Weekly Challenges\Week 2\travel-around-the-world.cpp">
       <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 3\gcd-product.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 3\half.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 3\prime-sum.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 3\sam-and-substrings.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\Weekly Challenges\Week 3\the-love-letter-mystery.cpp">
+      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
