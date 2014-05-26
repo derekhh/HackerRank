@@ -8,22 +8,22 @@
 #include<algorithm>
 using namespace std;
 
-const int MOD = 100000007;
+const int MOD = 1000000007;
 
 bool isprime[15000001];
-int factor[1000000];
+int factor[15000000];
 
-int ModExp(int a, int b, int n)
+long long ModExp(long long a, long long b, long long n)
 {
-	int c = 1, d = a;
+	long long c = 1, d = a;
 	while (b)
 	{
 		if (b & 1) c = (c*d) % n;
-		d = (1LL * d*d) % n;
+		d = (d*d) % n;
 		b >>= 1;
 	}
 	return c;
-} 
+}
 
 int main()
 {
@@ -46,12 +46,10 @@ int main()
 
 	for (int i = 0; i < nf; i++)
 	{
-		int tmp = 0;
-		long long now = factor[i];
-		while (true)
+		long long tmp = 0, now = factor[i];
+		while (n / now && m / now)
 		{
-			if (n / now == 0 || m / now == 0) break;
-			tmp += 1LL * (n / now) * (m / now);
+			tmp += (n / now) * (m / now);
 			now *= factor[i];
 		}
 		ans = (ans * ModExp(factor[i], tmp, MOD)) % MOD;
