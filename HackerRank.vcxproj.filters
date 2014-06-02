@@ -46,6 +46,12 @@
     <Filter Include="Source Files\Contests\Weekly Challenges\Week 3">
       <UniqueIdentifier>{5a438974-dc14-4b07-9895-2d4ed4970794}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Contests\101 Hack">
+      <UniqueIdentifier>{0f23fd4f-ba51-4f89-b87b-b836f49070c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Contests\101 Hack\May 2014">
+      <UniqueIdentifier>{9ad493bc-830e-4deb-aed4-cb2cd2b529f0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Challenges\Algorithms\Warmup\AngryChildren.cpp">
@@ -221,6 +227,15 @@
     </ClCompile>
     <ClCompile Include="Contests\Weekly Challenges\Week 3\the-love-letter-mystery.cpp">
       <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\101 Hack\May 2014\sherlock-and-array.cpp">
+      <Filter>Source Files\Contests\101 Hack\May 2014</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\101 Hack\May 2014\sherlock-and-cost.cpp">
+      <Filter>Source Files\Contests\101 Hack\May 2014</Filter>
+    </ClCompile>
+    <ClCompile Include="Contests\101 Hack\May 2014\sherlock-and-minimax.cpp">
+      <Filter>Source Files\Contests\101 Hack\May 2014</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
