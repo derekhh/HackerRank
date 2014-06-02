@@ -1,4 +1,4 @@
-//FillingJars.cpp
+//filling-jars.cpp
 //Algorithms - Warmup
 //Author: derekhh
 

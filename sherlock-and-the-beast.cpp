@@ -1,4 +1,4 @@
-//SherlockandTheBeast.cpp
+//sherlock-and-the-beast.cpp
 //Algorithms - Warmup
 //Author: derekhh
 

@@ -1,4 +1,4 @@
-//AngryChildren.cpp
+//angry-children.cpp
 //Algorithms - Warmup
 //Author: derekhh
 

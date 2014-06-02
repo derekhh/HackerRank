@@ -1,4 +1,4 @@
-//ChocolateFeast.cpp
+//chocolate-feast.cpp
 //Algorithms - Warmup
 //Author: derekhh
 

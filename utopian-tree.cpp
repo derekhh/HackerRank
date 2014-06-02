@@ -1,4 +1,4 @@
-//UtopianTree.cpp
+//utopian-tree.cpp
 //Algorithms - Warmup
 //Author: derekhh
 

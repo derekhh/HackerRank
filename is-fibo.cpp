@@ -1,4 +1,4 @@
-//IsFibo.cpp
+//is-fibo.cpp
 //Algorithms - Warmup
 //Author: derekhh
 

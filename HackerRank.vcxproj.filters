@@ -13,245 +13,204 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Contests">
-      <UniqueIdentifier>{c4b97046-8fd2-4260-9016-65df3f3cd201}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Challenges">
-      <UniqueIdentifier>{8329b4a3-be91-45e0-8c38-ae821bf9dd6a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Challenges\Algorithms">
-      <UniqueIdentifier>{f247165b-ff95-4281-b77c-b96fa7b4c17f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Challenges\Algorithms\Search">
-      <UniqueIdentifier>{d025887b-2f68-4479-b29d-c4f13ca0e1bd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Challenges\Algorithms\Warmup">
-      <UniqueIdentifier>{fda6cb80-ef7a-40a9-9718-976e0fbfafbc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Contests\Weekly Challenges">
-      <UniqueIdentifier>{3b44583e-a8e8-48de-97e3-dc4391a4f64e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Contests\Weekly Challenges\Week 1">
-      <UniqueIdentifier>{24c65ae8-2a7d-4900-a7c2-9c12e6827c27}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Contests\Weekly Challenges\Week 2">
-      <UniqueIdentifier>{aa07b970-f5cb-421b-bb08-001f49e1129e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Challenges\Algorithms\Arrays and Sorting">
-      <UniqueIdentifier>{0135db00-517b-451a-ad87-68e467048455}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Challenges\Algorithms\Discrete Mathematics">
-      <UniqueIdentifier>{4c94646e-063d-4113-b604-770338d72cd4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Contests\Weekly Challenges\Week 3">
-      <UniqueIdentifier>{5a438974-dc14-4b07-9895-2d4ed4970794}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Contests\101 Hack">
-      <UniqueIdentifier>{0f23fd4f-ba51-4f89-b87b-b836f49070c4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Contests\101 Hack\May 2014">
-      <UniqueIdentifier>{9ad493bc-830e-4deb-aed4-cb2cd2b529f0}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Challenges\Algorithms\Warmup\AngryChildren.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\ChocolateFeast.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\FillingJars.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\IsFibo.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\ServiceLane.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\SherlockandTheBeast.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\UtopianTree.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\pairs.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\flowers.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\lonely-integer.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\closest-numbers.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\encryption.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\find-median.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\missing-numbers.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Search\coin-on-the-table.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 1\bst-maintenance.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 1\maximizing-xor.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 1\p-sequences.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 1\randomness.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 1\randomness_partial.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 1\volleyball-match.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 2\cut-the-tree.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 2\manasa-and-stones.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 2\huarongdao.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\Warmup\gem-stones.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Warmup</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\minimum-draws.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\handshake.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\building-a-list.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\connecting-towns.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\k-candy-store.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\diwali-lights.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\ncr-table.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\correctness-invariant.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort3.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\countingsort4.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\game-of-rotation.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\insertion-sort.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\insertionsort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\insertionsort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\mark-and-toys.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\quicksort1.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\quicksort2.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\quicksort4.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\runningtime.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\tutorial-intro.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\arrays-and-sorting\two-arrays.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Arrays and Sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\keyword-transposition-cipher.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\coinage.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Challenges\Algorithms\discrete-maths\basic-cryptanalysis.cpp">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 2\road-network.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 2\travel-around-the-world.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 3\gcd-product.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 3\half.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 3\prime-sum.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 3\sam-and-substrings.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\Weekly Challenges\Week 3\the-love-letter-mystery.cpp">
-      <Filter>Source Files\Contests\Weekly Challenges\Week 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\101 Hack\May 2014\sherlock-and-array.cpp">
-      <Filter>Source Files\Contests\101 Hack\May 2014</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\101 Hack\May 2014\sherlock-and-cost.cpp">
-      <Filter>Source Files\Contests\101 Hack\May 2014</Filter>
-    </ClCompile>
-    <ClCompile Include="Contests\101 Hack\May 2014\sherlock-and-minimax.cpp">
-      <Filter>Source Files\Contests\101 Hack\May 2014</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">
       <Filter>Source Files</Filter>
     </None>
-    <None Include="Challenges\Algorithms\Search\pairs.md">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    <None Include="encryption.md">
+      <Filter>Source Files</Filter>
     </None>
-    <None Include="Challenges\Algorithms\Search\flowers.md">
-      <Filter>Source Files\Challenges\Algorithms\Search</Filter>
+    <None Include="flowers.md">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="pairs.md">
+      <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Challenges\Algorithms\discrete-maths\prng-sequence-guessing.java">
-      <Filter>Source Files\Challenges\Algorithms\Discrete Mathematics</Filter>
-    </Text>
+    <ClCompile Include="basic-cryptanalysis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bst-maintenance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="building-a-list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="closest-numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="coinage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="coin-on-the-table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="connecting-towns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="correctness-invariant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="countingsort4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cut-the-tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="diwali-lights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="encryption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="find-median.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flowers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="game-of-rotation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd-product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gem-stones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="half.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="handshake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="huarongdao.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion-sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="insertionsort1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="insertionsort2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="k-candy-store.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="keyword-transposition-cipher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lonely-integer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="manasa-and-stones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mark-and-toys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="maximizing-xor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="minimum-draws.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="missing-numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ncr-table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prime-sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="p-sequences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quicksort1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quicksort2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quicksort4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="randomness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="randomness_partial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="road-network.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="runningtime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sam-and-substrings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sherlock-and-array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sherlock-and-cost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sherlock-and-minimax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="the-love-letter-mystery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="travel-around-the-world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial-intro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="two-arrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="volleyball-match.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="angry-children.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chocolate-feast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="filling-jars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="is-fibo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service-lane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sherlock-and-the-beast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utopian-tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
