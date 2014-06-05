@@ -221,5 +221,8 @@
     <ClCompile Include="solve-me-first.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lucy-and-flowers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
