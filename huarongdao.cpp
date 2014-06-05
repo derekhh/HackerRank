@@ -3,9 +3,8 @@
 //Weekly Challenges - Week 2
 //Author: derekhh
 
-#include<iostream>
+#include<cstdio>
 #include<cstring>
-#include<ctime>
 using namespace std;
 
 int nRow, nCol, k;
@@ -190,23 +189,21 @@ void spfa(Node cc, int start[4], Node target)
 			ret = val;
 	}
 
-	cout << ret << endl;
+	printf("%d\n", ret);
 }
 
 int main()
 {
-	time_t start = clock();
 	int q;
-	cin >> nRow >> nCol >> k >> q;
+	scanf("%d%d%d%d", &nRow, &nCol, &k, &q);
 	for (int i = 0; i < nRow; i++)
 		for (int j = 0; j < nCol; j++)
-			cin >> board[i][j];
+			scanf("%d", &board[i][j]);
 	initdist();
-	cerr << clock() - start << endl;
 	while (q--)
 	{
 		int ex, ey, sx, sy, tx, ty;
-		cin >> ex >> ey >> sx >> sy >> tx >> ty;
+		scanf("%d%d%d%d%d%d", &ex, &ey, &sx, &sy, &tx, &ty);
 		ex--, ey--, sx--, sy--, tx--, ty--;
 
 		Node t(ex, ey, 0);
@@ -217,6 +214,5 @@ int main()
 
 		spfa(cc, ret, target);
 	}
-	cerr << clock() - start << endl;
 	return 0;
 }

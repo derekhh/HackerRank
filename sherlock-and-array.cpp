@@ -1,3 +1,6 @@
+//sherlock-and-array.cpp
+//Sherlock and Array
+
 #include<iostream>
 #include<cstring>
 using namespace std;

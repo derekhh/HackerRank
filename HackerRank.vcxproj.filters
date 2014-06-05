@@ -224,5 +224,8 @@
     <ClCompile Include="lucy-and-flowers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="roy-and-alpha-beta-trees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
