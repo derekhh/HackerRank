@@ -227,5 +227,8 @@
     <ClCompile Include="roy-and-alpha-beta-trees.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="two-two.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
