@@ -96,4 +96,3 @@ int main()
 	cout << c.query(MAXN) << endl;
 	return 0;
 }
-```
