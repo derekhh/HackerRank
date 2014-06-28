@@ -27,6 +27,9 @@
     <None Include="pairs.md">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="triplets.md">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="basic-cryptanalysis.cpp">
@@ -252,6 +255,30 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="bridges-and-harbors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="upstairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="special-numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="consistent-salaries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="guessing-numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="yaxis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="triplets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="computing-analytics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="risk-management.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
