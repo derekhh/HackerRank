@@ -317,5 +317,8 @@
     <ClCompile Include="dynamic-summation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="euler001.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
