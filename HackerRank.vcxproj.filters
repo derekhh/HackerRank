@@ -320,5 +320,14 @@
     <ClCompile Include="euler001.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="die-hard-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chocolate-in-box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="string-function-calculation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
