@@ -329,5 +329,14 @@
     <ClCompile Include="string-function-calculation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cavity-map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bus-station.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xor-and-sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
