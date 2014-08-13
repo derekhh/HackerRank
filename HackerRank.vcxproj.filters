@@ -338,5 +338,17 @@
     <ClCompile Include="xor-and-sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="counter-game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="john-and-gcd-list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gneck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="black-box-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
