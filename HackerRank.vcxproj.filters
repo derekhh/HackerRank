@@ -395,7 +395,16 @@
     <ClCompile Include="strange-numbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="grid-challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="tree-pruning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jim-and-the-jokes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="candles-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
