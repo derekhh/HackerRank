@@ -407,5 +407,14 @@
     <ClCompile Include="candles-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="priyanka-and-toys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chief-hopper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="favourite-sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
