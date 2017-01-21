@@ -156,7 +156,9 @@ $RECYCLE.BIN/
 .DS_Store
 /dictionary.lst
 
+# Project specific files
 *.o
 *.out
 *.in
 *.exe
+README.html
