@@ -12,6 +12,11 @@
   The data of this problem is pretty weak. When calculating LCM of array
   a, the value could potentially overflow. But my earlier version which
   doesn't handle this overflow problem correctly also passed the judge.
+
+  It's also trivial (and has been mentioned in the editorial) that after
+  getting the GCD and LCM values. We only need to check whether a multiple
+  of `lcmA` is a factor of `gcdB`. There is no need to involve the array
+  any more.
 */
 
 #include <iostream>
