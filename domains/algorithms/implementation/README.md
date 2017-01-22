@@ -3,6 +3,7 @@
 This repository keeps a list of the problems in [Algorithms - Implementation](https://www.hackerrank.com/domains/algorithms/implementation). The threshold I'm currently using is 15, 30 and 45 minutes for each easy, medium and hard problem, respectively.
 
 ## Submissions (9 / 48)
+
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|[mini-max-sum.cpp](mini-max-sum.cpp)|Easy|1/22/2017|1'53"|1||
