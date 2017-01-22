@@ -2,7 +2,7 @@
 
 This repository keeps a list of the problems in [Algorithms - Implementation](https://www.hackerrank.com/domains/algorithms/implementation). The threshold I'm currently using is 15, 30 and 45 minutes for each easy, medium and hard problem, respectively.
 
-## Submissions (9 / 48)
+## Submissions (11 / 48)
 
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
@@ -15,3 +15,5 @@ This repository keeps a list of the problems in [Algorithms - Implementation](ht
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit)|[bon-appetit.cpp](bon-appetit.cpp)|Easy|1/22/2017|3'31"|1||
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)|[sock-merchant.cpp](sock-merchant.cpp)|Easy|1/22/2017|1'51"|1||
 |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)|[utopian-tree.cpp](utopian-tree.cpp)|Easy|1/22/2017|5'45"|1||
+|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|[angry-professor.cpp](angry-professor.cpp)|Easy|1/22/2017|2'04"|1||
+|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)|[beautiful-days-at-the-movies.cpp](beautiful-days-at-the-movies.cpp)|Easy|1/22/2017|2'43"|1||
