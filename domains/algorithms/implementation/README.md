@@ -2,7 +2,7 @@
 
 This repository keeps a list of the problems in [Algorithms - Implementation](https://www.hackerrank.com/domains/algorithms/implementation). The threshold I'm currently using is 15, 30 and 45 minutes for each easy, medium and hard problem, respectively.
 
-## Submissions (13 / 48)
+## Submissions (16 / 48)
 
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
@@ -19,3 +19,6 @@ This repository keeps a list of the problems in [Algorithms - Implementation](ht
 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)|[beautiful-days-at-the-movies.cpp](beautiful-days-at-the-movies.cpp)|Easy|1/22/2017|2'43"|1||
 |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)|[strange-advertising.cpp](strange-advertising.cpp)|Easy|1/29/2017|4'10"|1||
 |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)|[save-the-prisoner.cpp](save-the-prisoner.cpp)|Easy|1/30/2017|4'18"|1||
+|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)|[jumping-on-the-clouds-revisited.cpp](jumping-on-the-clouds-revisited.cpp)|Easy|2/2/2017|6'27"|1||
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits)|[find-digits.cpp](find-digits.cpp)|Easy|2/2/2017|1'48"|1||
+|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|[extra-long-factorials.cpp](extra-long-factorials.cpp)|Medium|2/2/2017|4'01"|1||
