@@ -2,7 +2,7 @@
 
 This repository keeps a list of the problems in [Algorithms - Implementation](https://www.hackerrank.com/domains/algorithms/implementation). The threshold I'm currently using is 15, 30 and 45 minutes for each easy, medium and hard problem, respectively.
 
-## Submissions (40 / 48)
+## Submissions (42 / 48)
 
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
@@ -46,8 +46,8 @@ This repository keeps a list of the problems in [Algorithms - Implementation](ht
 |[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)|[the-grid-search.cpp](the-grid-search.cpp)|Medium|2/6/2017|5'20"|1||
 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)|[flatland-space-stations.cpp](flatland-space-stations.cpp)|Easy|2/6/2017|4'14"|1||
 |[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|[fair-rations.cpp](fair-rations.cpp)|Easy|2/6/2017|4'07"|1||
-|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|happy-ladybugs.cpp|Easy|||||
-|[Strange Counter](https://www.hackerrank.com/challenges/strange-code)|strange-code.cpp|Easy|||||
+|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|[happy-ladybugs.cpp](happy-ladybugs.cpp)|Easy|2/6/2017|7'25"|2||
+|[Strange Counter](https://www.hackerrank.com/challenges/strange-code)|[strange-code.cpp](strange-code.cpp)|Easy|2/6/2017|2'24"|1||
 |[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)|almost-sorted.cpp|Medium|||||
 |[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation)|absolute-permutation.cpp|Medium|||||
 |[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)|bomber-man.cpp|Medium|||||
