@@ -2,7 +2,7 @@
 
 This repository keeps a list of the problems in [Algorithms - Implementation](https://www.hackerrank.com/domains/algorithms/implementation). The threshold I'm currently using is 15, 30 and 45 minutes for each easy, medium and hard problem, respectively.
 
-## Submissions (24 / 48)
+## Submissions (30 / 48)
 
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
@@ -30,3 +30,27 @@ This repository keeps a list of the problems in [Algorithms - Implementation](ht
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string)|[repeated-string.cpp](repeated-string.cpp)|Easy|2/5/2017|3'01"|1||
 |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)|[jumping-on-the-clouds.cpp](jumping-on-the-clouds.cpp)|Easy|2/5/2017|4'41"|1||
 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)|[equality-in-a-array.cpp](equality-in-a-array.cpp)|Easy|2/5/2017|2'17"|1||
+|[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)|[acm-icpc-team.cpp](acm-icpc-team.cpp)|Easy|2/5/2017|4'05"|1||
+|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)|[taum-and-bday.cpp](taum-and-bday.cpp)|Easy|2/5/2017|3'57"|1||
+|[Encryption](https://www.hackerrank.com/challenges/encryption)|[encryption.cpp](encryption.cpp)|Medium|2/5/2017|11'30"|1||
+|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)|[bigger-is-greater.cpp](bigger-is-greater.cpp)|Medium|2/5/2017|13'49"|1||
+|[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)|[kaprekar-numbers.cpp](kaprekar-numbers.cpp)|Easy|2/5/2017|5'09"|1||
+|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|[beautiful-triplets.cpp](beautiful-triplets.cpp)|Easy|2/5/2017|3'58"|2||
+|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|manasa-and-stones.cpp|Easy|||||
+|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|minimum-distances.cpp|Easy|||||
+|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|the-time-in-words.cpp|Medium|||||
+|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|cavity-map.cpp|Easy|||||
+|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|chocolate-feast.cpp|Easy|||||
+|[Service Lane](https://www.hackerrank.com/challenges/service-lane)|service-lane.cpp|Easy|||||
+|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|lisa-workbook.cpp|Easy|||||
+|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)|the-grid-search.cpp|Medium|||||
+|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)|flatland-space-stations.cpp|Easy|||||
+|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|fair-rations.cpp|Easy|||||
+|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|happy-ladybugs.cpp|Easy|||||
+|[Strange Counter](https://www.hackerrank.com/challenges/strange-code)|strange-code.cpp|Easy|||||
+|[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)|almost-sorted.cpp|Medium|||||
+|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation)|absolute-permutation.cpp|Medium|||||
+|[The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)|bomber-man.cpp|Medium|||||
+|[Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)|two-pluses.cpp|Medium|||||
+|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array)|larrys-array.cpp|Medium|||||
+|[Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)|matrix-rotation-algo.cpp|Hard|||||
