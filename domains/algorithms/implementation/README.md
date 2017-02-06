@@ -2,7 +2,7 @@
 
 This repository keeps a list of the problems in [Algorithms - Implementation](https://www.hackerrank.com/domains/algorithms/implementation). The threshold I'm currently using is 15, 30 and 45 minutes for each easy, medium and hard problem, respectively.
 
-## Submissions (30 / 48)
+## Submissions (40 / 48)
 
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
@@ -36,16 +36,16 @@ This repository keeps a list of the problems in [Algorithms - Implementation](ht
 |[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)|[bigger-is-greater.cpp](bigger-is-greater.cpp)|Medium|2/5/2017|13'49"|1||
 |[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)|[kaprekar-numbers.cpp](kaprekar-numbers.cpp)|Easy|2/5/2017|5'09"|1||
 |[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|[beautiful-triplets.cpp](beautiful-triplets.cpp)|Easy|2/5/2017|3'58"|2||
-|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|manasa-and-stones.cpp|Easy|||||
-|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|minimum-distances.cpp|Easy|||||
-|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|the-time-in-words.cpp|Medium|||||
-|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|cavity-map.cpp|Easy|||||
-|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|chocolate-feast.cpp|Easy|||||
-|[Service Lane](https://www.hackerrank.com/challenges/service-lane)|service-lane.cpp|Easy|||||
-|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|lisa-workbook.cpp|Easy|||||
-|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)|the-grid-search.cpp|Medium|||||
-|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)|flatland-space-stations.cpp|Easy|||||
-|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|fair-rations.cpp|Easy|||||
+|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|[manasa-and-stones.cpp](manasa-and-stones.cpp)|Easy|2/6/2017|4'18"|3||
+|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|[minimum-distances.cpp](minimum-distances.cpp)|Easy|2/6/2017|2'45"|1||
+|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|[the-time-in-words.cpp](the-time-in-words.cpp)|Medium|2/6/2017|9'32"|2||
+|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|[cavity-map.cpp](cavity-map.cpp)|Easy|2/6/2017|3'08"|1||
+|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|[chocolate-feast.cpp](chocolate-feast.cpp)|Easy|2/6/2017|5'04"|1||
+|[Service Lane](https://www.hackerrank.com/challenges/service-lane)|[service-lane.cpp](service-lane.cpp)|Easy|2/6/2017|4'20"|1||
+|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|[lisa-workbook.cpp](lisa-workbook.cpp)|Easy|2/6/2017|7'01"|1||
+|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)|[the-grid-search.cpp](the-grid-search.cpp)|Medium|2/6/2017|5'20"|1||
+|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)|[flatland-space-stations.cpp](flatland-space-stations.cpp)|Easy|2/6/2017|4'14"|1||
+|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|[fair-rations.cpp](fair-rations.cpp)|Easy|2/6/2017|4'07"|1||
 |[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|happy-ladybugs.cpp|Easy|||||
 |[Strange Counter](https://www.hackerrank.com/challenges/strange-code)|strange-code.cpp|Easy|||||
 |[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)|almost-sorted.cpp|Medium|||||
