@@ -6,7 +6,7 @@ I felt guilty for those who had watched and starred my repository. Thus, I'm try
 
 |Domain|Status|Last Updated|
 |---|---|---|
-|[Algorithms - Warmup](domains/algorithms/warmup/README.md)|9 / 9|1/21/2017|
+|[Algorithms - Warmup](domains/algorithms/warmup/README.md)|10 / 10|4/3/2017|
 |[Algorithms - Implementation](domains/algorithms/implementation/README.md)|42 / 48|2/6/2017|
 |*Algorithms - Constructive Algorithms*|||
 |*Algorithms - Strings*|||

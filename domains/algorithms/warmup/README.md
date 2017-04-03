@@ -2,7 +2,8 @@
 
 This repository keeps a list of the problems in [Algorithms - Warmup](https://www.hackerrank.com/domains/algorithms/warmup). The threshold I'm currently using is 10 minute for each easy problem.
 
-## Submissions (9 / 9)
+## Submissions (10 / 10)
+
 |Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|[solve-me-first.cpp](solve-me-first.cpp)|Easy|1/21/2017|0'29"|1||
@@ -12,5 +13,6 @@ This repository keeps a list of the problems in [Algorithms - Warmup](https://ww
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[diagonal-difference.cpp](diagonal-difference.cpp)|Easy|1/21/2017|2'27"|1||
 |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|[plus-minus.cpp](plus-minus.cpp)|Easy|1/21/2017|2'05"|1||
 |[Staircase](https://www.hackerrank.com/challenges/staircase)|[staircase.cpp](staircase.cpp)|Easy|1/21/2017|1'29"|1||
+|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|[mini-max-sum.cpp](mini-max-sum.cpp)|Easy|1/22/2017|1'53"|1||
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|[time-conversion.cpp](time-conversion.cpp)|Easy|1/21/2017|4'07"|1||
-|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)|[circular-array-rotation.cpp](circular-array-rotation.cpp)|Easy|1/21/2017|3'18"|1||
+|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|birthday-cake-candles.cpp|Easy|4/3/2017|1'46"|1||
