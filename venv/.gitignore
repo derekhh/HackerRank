@@ -1,0 +1,25 @@
+########################
+# Virtualenv gitignore #
+########################
+
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+######################
+# Selenium gitignore #
+######################
+
+selenium/webdriver/firefox/amd64/
+selenium/webdriver/firefox/x86/
+selenium/webdriver/remote/getAttribute.js
+selenium/webdriver/remote/isDisplayed.js
