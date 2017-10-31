@@ -1,0 +1,52 @@
+#include<bits/stdc++.h>
+#define pb emplace_back
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    int n,m,k;
+    cin>>n>>m>>k;
+    vector<int> v;
+    for(int i=0;i<m;i++)
+    {
+        int x,y;
+        cin>>x>>y;
+        if(x==0)
+        {
+            v.pb(y);
+        }
+        else if(y==n)
+        {
+            v.pb(x+n);
+            
+        }
+        else if(x==n)
+        {
+            v.pb(3*n-y);
+        }
+        else
+        {
+            v.pb(4*n-x);
+        }
+    }
+    sort(v.begin(),v.end());
+    int d=v.size(); 
+    for(int i=0;i<d;i++)
+    {
+        v.pb(4*n+v[i]);
+    }
+   
+    int ans=100000000;
+    for(int i=0;i<d;i++)
+    {
+            ans=min(ans,abs(v[i+k-1]-v[i]));
+        
+        
+    }
+    cout<<ans;
+    
+    
+            
+    return 0;
+}
