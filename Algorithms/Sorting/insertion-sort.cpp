@@ -6,13 +6,13 @@
 #include<iostream>
 #include<climits>
 using namespace std;
+typedef long long ll;
+ll L[100000], R[100000], val[100000];
+ll ans;
 
-int L[100000], R[100000], val[100000];
-long long ans;
-
-void merge(int p, int q, int r)
+void merge(ll p, ll q, ll r)
 {
-	int nL = 0, nR = 0, pL = 0, pR = 0;
+	ll nL = 0, nR = 0, pL = 0, pR = 0;
 	for (int i = p; i <= q; i++)
 		L[nL++] = val[i];
 	for (int i = q + 1; i <= r; i++)
@@ -34,11 +34,11 @@ void merge(int p, int q, int r)
 	}
 }
 
-void mergesort(int l, int r)
+void mergesort(ll l, ll r)
 {
 	if (l < r)
 	{
-		int mid = (l + r) / 2;
+		ll mid = (l + r) / 2;
 		mergesort(l, mid);
 		mergesort(mid + 1, r);
 		merge(l, mid, r);
@@ -47,14 +47,14 @@ void mergesort(int l, int r)
 
 int main()
 {
-	int t;
+	ll t;
 	cin >> t;
 	while (t--)
 	{
 		ans = 0;
-		int n;
+		ll n;
 		cin >> n;
-		for (int i = 0; i < n; i++)
+		for (ll i = 0; i < n; i++)
 			cin >> val[i];
 		mergesort(0, n - 1);
 		cout << ans << endl;
