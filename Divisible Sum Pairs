@@ -1,0 +1,34 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int n,k,c=0;
+    cin>>n>>k;
+    int a[n];
+    for(int i=0;i<n;i++)
+    {
+         cin>>a[i];
+    }
+    for(int i=0;i<n;i++)
+    {
+        for(int j=i;j<n;j++)
+        {
+            if(i<j && (a[i]+a[j])%k==0)
+            {
+                c++;
+            }
+        }
+    }
+    cout<<c;
+    return 0;
+}
+
+/* 
+Sample Input
+6 3
+1 3 2 6 1 2
+Sample Output
+5
+*/
+
