@@ -9,7 +9,7 @@ I felt guilty for those who had watched and starred my repository. Thus, I'm try
 |[Algorithms - Warmup](domains/algorithms/warmup/README.md)|10 / 10|4/3/2017|
 |[Algorithms - Implementation](domains/algorithms/implementation/README.md)|42 / 48|2/6/2017|
 |*Algorithms - Constructive Algorithms*|||
-|*Algorithms - Strings*|||
+|*Algorithms - Strings*|1/49|13/4/2021|
 |*Algorithms - Sorting*|||
 |*Algorithms - Search*|||
 |*Algorithms - Graph Theory*|||
