@@ -5,7 +5,7 @@ beautifulsoup4==4.5.3
 configparser==3.5.0
 isort==4.2.5
 lazy-object-proxy==1.2.2
-lxml==3.7.3
+lxml==4.9.1
 mccabe==0.6.1
 packaging==16.8
 pylint==1.6.5
